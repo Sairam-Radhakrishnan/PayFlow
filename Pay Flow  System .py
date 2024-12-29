@@ -93,7 +93,7 @@ Vijay.display_full_report()
 
 print("")
 
-Vijay.calculate_pay(10)
+Vijay.calculate_pay()
 
 print("")
 print("")
